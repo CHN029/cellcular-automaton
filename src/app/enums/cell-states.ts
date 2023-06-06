@@ -12,5 +12,7 @@ export enum CellStates {
     Susceptible = 5,
     Exposed = 6,
     Infected = 7,
-    Removed = 8
+    Removed = 8,
+    Latent = 9,
+    Resist = 10,
 }
